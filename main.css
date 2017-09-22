@@ -1,0 +1,55 @@
+#main-text {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.navbar{
+    background-color: #82FF9E;
+}
+
+img {
+    border: 3px solid #0D324D;
+    border-radius: 4px;
+    width:100%;
+}
+
+body {
+    background-color: #B594B6;
+}
+
+ p {
+    color: #020202;
+    font-family: 'Gudea', sans-serif;
+    font-size: 18px;
+ }
+
+ a {
+    font-family: 'Gudea', sans-serif;
+ }
+
+ .glifs {
+    background-color: #82FF9E;
+    border-radius: 5px;
+    text-align: center;
+    height:300px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+ }
+
+ .glifs p {
+    text-align: center;
+ }
+
+ .table {
+    margin-top: 30px;
+ }
+
+
+#coconut {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.active {
+    background-color: #9B489B;
+}
